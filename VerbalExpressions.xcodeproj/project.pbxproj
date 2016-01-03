@@ -26,11 +26,11 @@
 /* Begin PBXFileReference section */
 		5DF0B9F0193E827500CC5CE2 /* VerbalExpressions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = VerbalExpressions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DF0B9F4193E827500CC5CE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5DF0B9F5193E827500CC5CE2 /* VerbalExpressions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = VerbalExpressions.h; path = Sources/VerbalExpressions.h; sourceTree = SOURCE_ROOT; };
+		5DF0B9F5193E827500CC5CE2 /* VerbalExpressions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = VerbalExpressions.h; path = VerbalExpressions/VerbalExpressions.h; sourceTree = SOURCE_ROOT; };
 		5DF0B9FB193E827500CC5CE2 /* VerbalExpressionsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VerbalExpressionsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DF0BA01193E827500CC5CE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5DF0BA02193E827500CC5CE2 /* VerbalExpressionsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerbalExpressionsTests.swift; sourceTree = "<group>"; };
-		5DF0BA0C193E82AA00CC5CE2 /* VerbalExpressions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = VerbalExpressions.swift; path = Sources/VerbalExpressions.swift; sourceTree = SOURCE_ROOT; };
+		5DF0BA0C193E82AA00CC5CE2 /* VerbalExpressions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = VerbalExpressions.swift; path = VerbalExpressions/VerbalExpressions.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
