@@ -22,7 +22,7 @@ public class VerbalExpressions {
     // computed properties
     var pattern: String { return prefixes + source + suffixes }
     
-    var regularExpression: NSRegularExpression! {
+    var regularExpression: NSRegularExpression {
         get {
             let regex = try! NSRegularExpression(pattern: pattern, options: options)
             
