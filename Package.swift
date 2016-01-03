@@ -2,6 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "SwiftVerbalExpressions"
+    name: "SwiftVerbalExpressions",
+    exclude: ["VerbalExpressionsTests/"]
 )
 
